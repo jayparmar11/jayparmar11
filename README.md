@@ -38,7 +38,7 @@ I'm a passionate developer with experience in various modern web technologies. M
 
 ### 📈 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayparmar11&theme=sunset-gradient&hide_border=true&border_radius=18)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=jayparmar11&theme=sunset-gradient&hide_border=true&border_radius=18))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayparmar11&theme=sunset-gradient&hide_border=true&border_radius=18)](https://git.io/streak-stats)
  
 ---
 
