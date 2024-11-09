@@ -42,7 +42,7 @@ I'm a passionate developer with experience in various modern web technologies. M
  
 ---
 
-<a href="https://app.daily.dev/jay__s__p"><img src="https://api.daily.dev/devcards/v2/xc2AfO96Uk1KfqxVeOGP0.png?type=default&r=p47" width="356" alt="Jay Parmar's Dev Card"/></a>
+<a href="https://app.daily.dev/jayparmar11"><img src="https://api.daily.dev/devcards/v2/xc2AfO96Uk1KfqxVeOGP0.png?type=default&r=p47" width="356" alt="Jay Parmar's Dev Card"/></a>
 
 ---
 
